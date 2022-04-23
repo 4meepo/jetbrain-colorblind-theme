@@ -1,6 +1,6 @@
 # color-blind-theme
 <!-- Plugin description -->
-这是一个色弱主题，可以帮助更清晰直观的阅读代码。
+This is a light theme that want to help colorblind people to read code more easily. (including me!)
 <!-- Plugin description end -->
 
 
