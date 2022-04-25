@@ -3,6 +3,7 @@
     <id>com.github.captaingopher.colorblindtheme</id>
     <name>Colorblind Theme</name>
     <vendor>captaingopher</vendor>
+    <version>0.0.2</version>
 
     <depends>com.intellij.modules.platform</depends>
 
