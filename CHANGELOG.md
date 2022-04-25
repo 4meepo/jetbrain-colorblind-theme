@@ -11,3 +11,7 @@
 ## [0.0.2]
 ### Added
 - add some description and remove some useless code.
+
+## [0.0.3]
+### Fixed
+- change  ide version requirement
